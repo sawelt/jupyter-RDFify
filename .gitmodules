@@ -1,0 +1,3 @@
+[submodule "Jupyter-RDFify"]
+	path = Jupyter-RDFify
+	url = https://github.com/lapie1/Jupyter-RDFify
